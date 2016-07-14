@@ -1,0 +1,22 @@
+body{
+   background-color:#FE5B35; 
+    color: aliceblue;}
+.Letter{
+    color:azure;
+    font: "Comic Sans MS", cursive, sans-serif;
+    font-size: "55";
+    float: left;
+    width: 50%;
+    
+}
+.Beast{
+    color:azure;
+    font: "Comic Sans MS", cursive, sans-serif;
+    font-size: "40";
+    float: right;
+    width: 50%;
+    height: 35%; 
+}
+
+h1{color:ghostwhite}
+h2{color:ghostwhite}
